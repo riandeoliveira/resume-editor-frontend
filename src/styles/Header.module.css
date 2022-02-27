@@ -1,0 +1,9 @@
+.container {
+  background-color: #004aad;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  height: 95px;
+  padding: 25px;
+  text-align: center;
+}

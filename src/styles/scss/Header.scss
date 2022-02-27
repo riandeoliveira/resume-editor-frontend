@@ -1,0 +1,11 @@
+@import "./variables";
+
+.container {
+  background-color: $resume-header-bg-color;
+  color: $resume-header-title-color;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  height: 95px;
+  padding: 25px;
+  text-align: center;
+}
